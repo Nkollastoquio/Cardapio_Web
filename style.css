@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 30px;
+    background-color: rgb(170, 122, 30);
+}
+section {
+    background-color: rgb(170, 158, 133);
+    padding: 130px;
+    font-family: Aptos Display;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10px;}
+
+#artesanal{
+    width: 30%;
+    left: 0%;
+}
+#salada{
+    width: 30% ;
+    left: 0%;
+}
+#egg{
+    width: 30%;
+    left: 0%;
+}
+#frango{
+    width: 30%;
+    left: 0%;
+}
+#burguer{
+    width: 30%;
+}
+#prime{
+width: 30%;
+}
+span{
+color: red;
+}
+
+footer {
+  background-color: rgb(170, 158, 133);
+  color: black;
+  padding: 5px;
+  margin-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  position: 100%;
+}
+
